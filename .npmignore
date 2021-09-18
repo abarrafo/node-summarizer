@@ -18,3 +18,7 @@ lib-doc/
 .editorconfig
 .babelrc
 .gitignore
+
+tests/
+.idea/
+
