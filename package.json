@@ -1,6 +1,6 @@
 {
-  "name": "node-summarizer",
-  "version": "1.0.7",
+  "name": "ab-node-summarizer",
+  "version": "2.0.0",
   "description": "Text summarizer using Node.js",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SwapnikKatkoori/Text-Summarizer.git"
+    "url": "git+https://github.com/abarrafo/node-summarizer.git"
   },
   "keywords": [
     "text",
@@ -20,11 +20,12 @@
     "summarization"
   ],
   "author": "Swapnik Katkoori <katkoor2@msu.edu>",
+  "contributors": ["Andrew Barraford"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SwapnikKatkoori/Text-Summarizer/issues"
+    "url": "https://github.com/abarrafo/node-summarizer/issues"
   },
-  "homepage": "https://github.com/SwapnikKatkoori/Text-Summarizer#readme",
+  "homepage": "https://github.com/abarrafo/node-summarizer#readme",
   "dependencies": {
     "sbd": "1.0.19",
     "natural": "5.1.1",
