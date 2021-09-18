@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/SwapnikKatkoori/Text-Summarizer#readme",
   "dependencies": {
-    "sbd": "^1.0.15",
-    "natural": "^0.6.3",
-    "wordpos": "^1.2.0"
+    "sbd": "1.0.19",
+    "natural": "5.1.1",
+    "wordpos": "2.1.0"
   },
   "devDependencies": {
-    "jest": "^24.7.1"
+    "jest": "27.2.0"
   }
 }
