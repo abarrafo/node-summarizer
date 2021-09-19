@@ -101,7 +101,7 @@ class Preprocesser {
           let nouns = await wordpos.getNouns(clean_sentences[i]);
           nouns_and_adjectives_map.set(clean_sentences[i], nouns.concat(adjectives));
         } catch (e) {
-          console.warn(e.message, `processing sentence at index [${i}]`);
+          // console.warn(e.message, `processing sentence at index [${i}]`);
         }
       }
 
